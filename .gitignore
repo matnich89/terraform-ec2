@@ -1,0 +1,14 @@
+**/.terraform/*
+.idea/
+*.tfstate
+*.tfsate.*
+terraform.tfstate.backup
+
+
+
+*.tfvars
+
+.terraformrc
+terraformrc
+
+.DS_Store
